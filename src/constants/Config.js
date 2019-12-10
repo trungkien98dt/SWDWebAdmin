@@ -1,0 +1,1 @@
+export const API_URL = 'https://rent-bike-api-2019.herokuapp.com';
